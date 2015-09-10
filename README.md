@@ -1,2 +1,2 @@
 # what-else-did-they-say
-Digs out your tweets to find out if user is hypocrite
+Digs out tweets from the past to find out if the user is hypocrite
